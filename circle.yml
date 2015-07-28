@@ -1,0 +1,5 @@
+machine:
+  environment:
+    TERM: dumb
+  java:
+    version: oraclejdk8
